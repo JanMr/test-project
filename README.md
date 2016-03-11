@@ -28,15 +28,15 @@ Obvezno priloži testno bazo (z CREATE IN INSERT stavki)
 3.	Uporaba Less
 4.	Responsive design
 5.	Naredi urejevalnik zaloge
-6.	Oddaj testno nalogo preko version controll (github/bitbucket)
+6.	Oddaj testno nalogo preko version control (github/bitbucket)
 
 
 ```
 Hint:
- - Uporabi 3rd party knjižnice, da ti olajša delo.
+ - Uporabi 3rd party knjižnice, da ti olajšajo delo.
  - Fork this
 
-Če kaj ni jasnega, me lahko pokličeš na 070-421-900, ali mi napišeš na e-mail: jan.mrhar@preskok.si
+Če imaš kakršno koli vprašanje, me lahko pokličeš na 070-421-900, ali mi napišeš na e-mail: jan.mrhar [at] preskok.si
 (ne grizem)
 
 ```
