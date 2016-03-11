@@ -1,6 +1,6 @@
-Testna naloga
+# Testna naloga
 
-Osnova:
+## Osnova:
 
 1.	Imaš trgovino z orodjem (prodajajo npr. žago, kladivo, ...), v ti trgovini pa imaš več prodajalcev.Ko se določen izdelek proda, zabeležiš čas prodaje in prodajalca.
 
@@ -20,7 +20,8 @@ Osnova:
 4.	 S CSSjem oblikuj tabelo
 
 Obvezno priloži testno bazo (z CREATE IN INSERT stavki)
-Bonus
+
+##  Bonus
 
 1.	Uporabi Framework (Lumen,Silex,ZF2 ...)
 2.	Uporabi nek template (html/css)
@@ -28,8 +29,9 @@ Bonus
 4.	Responsive design
 5.	Naredi urejevalnik zaloge
 6.	Oddaj testno nalogo preko version controll (github/bitbucket)
-___
-Hint: 
+
+
+```Hint:```
  - Uporabi 3rd party knjižnice, da ti olajša delo.
  - Fork this
 
