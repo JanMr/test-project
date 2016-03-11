@@ -31,10 +31,12 @@ Obvezno priloži testno bazo (z CREATE IN INSERT stavki)
 6.	Oddaj testno nalogo preko version controll (github/bitbucket)
 
 
-```Hint:```
+```
+Hint:
  - Uporabi 3rd party knjižnice, da ti olajša delo.
  - Fork this
 
 Če kaj ni jasnega, me lahko pokličeš na 070-421-900, ali mi napišeš na e-mail: jan.mrhar@preskok.si
 (ne grizem)
 
+```
